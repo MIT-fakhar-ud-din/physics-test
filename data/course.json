@@ -1,0 +1,37 @@
+{
+  "term": "Summer",
+  "year": "2020",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "1c0811c6-f20a-4fac-b2b8-b551b2c075b5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "physics-test-course"
+  },
+  "course_title": "Title test",
+  "course_description": "Hello",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "444",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "physics-test-course"
+  },
+  "learning_resource_types": [
+    "Activity Assignments with Examples",
+    "Activity Assignments",
+    "Demonstration Audio"
+  ],
+  "site_uid": "be450e56-8ea9-4f3c-8356-d413e8207b9e",
+  "site_short_id": "physics-test"
+}
